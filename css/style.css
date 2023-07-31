@@ -1,0 +1,55 @@
+header{
+    background: url(../img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;
+}
+.over{
+    background:rgb(45, 52, 54,0.5);
+}
+.mv{
+    font-size: 35px;
+    color: aqua;
+}
+article{
+    background: url(../img/Sac2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.forms1{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    -ms-flex-align: center;
+    justify-content: space-evenly;
+
+}
+.enviar{
+    text-align: center;
+} 
+
+.acb{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.header {
+    color: rebeccapurple;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: rebeccapurple;
+} 
+a {
+    text-decoration: none; /* Quita la línea subrayada */
+    color: inherit; /* Hereda el color del texto */
+  }
